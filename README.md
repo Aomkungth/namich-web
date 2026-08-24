@@ -3,6 +3,7 @@
 **พัฒนาโดย NAMICH-CLOUD**
 
 ระบบเว็บให้บริการเช่าเว็บโฮสติ้ง (DirectAdmin Hosting) และคลาวด์เซิร์ฟเวอร์ (VPS) พัฒนาด้วย PHP และ MySQL ออกแบบมาให้มีโครงสร้างไฟล์เรียบง่าย พร้อมติดตั้งและรันบน **DirectAdmin Web Hosting** หรือ Shared Hosting ทั่วไปได้ทันที
+<img width="1468" height="847" alt="image" src="https://github.com/user-attachments/assets/45002c46-3142-46ef-96dd-8554aacffda7" />
 
 ---
 
